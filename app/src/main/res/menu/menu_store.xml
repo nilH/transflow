@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="baigei.transflow.UI.StoreActivity">
+    <item
+        android:id="@+id/storing_store"
+        android:title="@string/store_store"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/storing_cancel"
+        android:title="@string/store_cancel"
+        app:showAsAction="always" />
+</menu>
